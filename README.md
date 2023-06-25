@@ -1,2 +1,19 @@
-# proyecto-vue-3-css-sass
-Creando un proyecto de vue 3 con CSS y SASS
+# vue-css
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
